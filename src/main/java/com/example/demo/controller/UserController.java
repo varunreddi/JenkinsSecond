@@ -11,6 +11,6 @@ public class UserController {
 	@GetMapping("/info")
 	public String userInfo()
 	{
-		return "Hello war";
+		return "Hello war new";
 	}
 }
